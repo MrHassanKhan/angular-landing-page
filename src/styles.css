@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import "./assets/materialize/css/materialize.min.css";
+
+/* *************** FONTS ******************************** */
+@font-face {
+  font-family: HelveticaNeue-Medium;
+  src: url(./assets/fonts/HelveticaNeue-Medium.otf) format("opentype");
+}
+
+#signuppage {
+  background-image: url("./assets/images/signupbg.PNG");
+}
+
+#loginpage {
+  background-image: url("./assets/images/signupbg.PNG");
+}
